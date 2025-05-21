@@ -1,0 +1,15 @@
+Run as Administrator
+
+python -m venv newEn
+
+newEn\Scripts\activate
+
+python -m pip install --upgrade pip
+pip install insightface
+pip install mysql-connector-python
+winget install -e --id Microsoft.VisualStudio.2022.BuildTools
+pip install onnxruntime
+pip install opencv-python opencv-contrib-python-headless
+
+
+Load buffalo_l model in .insightface. craete a folder Model and place inside
