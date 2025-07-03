@@ -1,6 +1,7 @@
 This project is a real-time attendance management system that leverages facial recognition for accurate and contactless attendance marking. Built using the ArcFace model from the InsightFace library, it detects and verifies faces from live camera feed and stores attendance logs into a MySQL database.
 
 FILE HANDLING AND UTILITIES
+
 os -  File Handling.
 pickle - Saving and loading the facial embeddings stored in the database dictionary (Common Purpose - Saving and Loading Python objects like dictionaries and NumPy arrays.)
 logging as log - tracking errors, warnings, and messages during execution.
