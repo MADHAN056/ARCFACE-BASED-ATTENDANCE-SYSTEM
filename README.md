@@ -1,4 +1,9 @@
+Project Overview
+
 This project is a real-time attendance management system that leverages facial recognition for accurate and contactless attendance marking. Built using the ArcFace model from the InsightFace library, it detects and verifies faces from live camera feed and stores attendance logs into a MySQL database.
+
+
+Imported Modules, Tools and Their Roles
 
 FILE HANDLING AND UTILITIES
 
