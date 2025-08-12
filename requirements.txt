@@ -1,6 +1,5 @@
-python -m pip install --upgrade pip
-pip install insightface
-pip install mysql-connector-python
-winget install -e --id Microsoft.VisualStudio.2022.BuildTools
-pip install onnxruntime
-pip install opencv-python opencv-contrib-python-headless
+insightface
+mysql-connector-python
+onnxruntime
+opencv-python
+opencv-contrib-python-headless
