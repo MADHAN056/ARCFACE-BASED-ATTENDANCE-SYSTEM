@@ -3,7 +3,7 @@ This project is a real-time attendance management system that leverages facial r
 
 ## Installation Requirements
 Before installing Python dependencies, make sure you have the required system tools installed.
-Run this command in PowerShell: winget install -e --id Microsoft.VisualStudio.2022.BuildTools \n
+Run this command in PowerShell: winget install -e --id Microsoft.VisualStudio.2022.BuildTools
 Load buffalo_l model in .insightface Folder (Create a New Folder named "Model" inside .insightface folder and move the arcface model into it)
 
 ## Imported Modules, Tools and Their Roles
